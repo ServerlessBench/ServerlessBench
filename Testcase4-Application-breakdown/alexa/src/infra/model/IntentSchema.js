@@ -10,10 +10,6 @@
  * See the Mulan PSL v1 for more details.
  */
 
-/*import * as fs from "fs";
-import {IIntentSchema, Intent, IntentSlot} from "virtual-core";
-*/
-
 const fs = require('fs')
 const Intent = require('virtual-core').Intent
 const IntentSlot = require('virtual-core').IntentSlot
