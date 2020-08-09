@@ -1,5 +1,4 @@
 #!/bin/bash -e
-
 # compile gg
 ./fetch-submodules.sh
 ./autogen.sh
