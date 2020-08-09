@@ -10,16 +10,6 @@
  * See the Mulan PSL v1 for more details.
  */
 
-/*import * as fs from "fs";
-import {IModel, SampleUtterances, SlotTypes} from "virtual-core";
-import {DialogIntent} from "../dialog/DialogIntent";
-import {BuiltinSlotTypes} from "./BuiltinSlotTypes";
-import {AudioPlayerIntents, BuiltinUtterances} from "./BuiltinUtterances";
-import {IntentSchema} from "./IntentSchema";
-import {SampleUtterancesBuilder} from "./SampleUtterancesBuilder";
-import {SlotPrompt} from "./SlotPrompt";
-*/
-
 const fs = require('fs')
 const SlotTypes = require('virtual-core').SlotTypes
 const SampleUtterances = require('virtual-core').SampleUtterances
