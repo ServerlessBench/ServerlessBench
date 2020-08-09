@@ -10,29 +10,6 @@
  * See the Mulan PSL v1 for more details.
  */
 
-// Holder class for utterances for builtin intents
-// This could have been done as just a JSON file, but then requires build tool to include it in the lib dir
-/*export class BuiltinUtterances {
-    public static values(): {[id: string]: string[]} {
-        return values;
-    }
-}
-
-export const AudioPlayerIntents = [
-    "AMAZON.PauseIntent",
-    "AMAZON.ResumeIntent",
-    "AMAZON.CancelIntent",
-    "AMAZON.LoopOffIntent",
-    "AMAZON.LoopOnIntent",
-    "AMAZON.NextIntent",
-    "AMAZON.PreviousIntent",
-    "AMAZON.RepeatIntent",
-    "AMAZON.ShuffleOffIntent",
-    "AMAZON.ShuffleOnIntent",
-    "AMAZON.StartOverIntent",
-];*/
-
-//const values = {
 const BuiltinUtterances = {
     "AMAZON.CancelIntent": ["cancel", "never mind"],
     "AMAZON.HelpIntent": ["help", "help me"],
