@@ -10,8 +10,6 @@
  * See the Mulan PSL v1 for more details.
  */
 
-//import {ISlotValue, SlotMatch, SlotType} from "virtual-core";
-
 const SlotType = require('virtual-core').SlotType
 
 class BuiltinSlotTypes {
