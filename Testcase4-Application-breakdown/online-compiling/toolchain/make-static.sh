@@ -1,4 +1,5 @@
 #!/bin/bash -xe
+
 SRCDIR=`pwd`
 NCPU=`nproc`
 

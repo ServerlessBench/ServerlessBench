@@ -1,4 +1,5 @@
 #!/usr/bin/env perl
+
 #
 # The sole function of this script is to provide a stdin that doesn't
 # read data or return EOF to its children.  If there's a clean,

@@ -1,4 +1,5 @@
 #!/bin/bash -xe
+
 SRCDIR=`pwd`
 DESTDIR=${SRCDIR}/bin
 INSTDIR=${SRCDIR}/inst/usr/bin

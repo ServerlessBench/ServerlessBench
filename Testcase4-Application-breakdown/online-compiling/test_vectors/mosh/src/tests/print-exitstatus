@@ -1,4 +1,5 @@
 #!/usr/bin/env perl
+
 #
 # Print exitstatus on stderr.
 #

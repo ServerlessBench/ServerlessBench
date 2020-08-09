@@ -1,4 +1,5 @@
 #!/bin/bash -ex
+
 # Copy gg_sdk.py into test directory
 cp ../src/gg_sdk.py .
 
