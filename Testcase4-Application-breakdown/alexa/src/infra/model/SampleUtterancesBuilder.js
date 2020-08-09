@@ -10,10 +10,6 @@
  * See the Mulan PSL v1 for more details.
  */
 
-/*import * as fs from "fs";
-import {SampleUtterances} from "virtual-core";
-*/
-
 const fs = require('fs')
 const SampleUtterances = require('virtual-core').SampleUtterances
 
